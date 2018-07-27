@@ -1,0 +1,2 @@
+*.go linguist-language=go
+*.tpl linguist-language=go
